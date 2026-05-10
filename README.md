@@ -5,14 +5,14 @@
 
 <!-- Typing SVG -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=3D7BFF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=Enterprise+Solutions+Architect;Cybersecurity+Engineer+%7C+DevOps+Lead;Building+Nivoxis+CyberAwareness+Platform" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=3D7BFF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=Founder+%40+Nivoxis;Enterprise+Security+Awareness+Platform;AI-Powered+Phishing+%26+Training+SaaS" alt="Typing SVG" />
 </a>
 
 <br/>
 
 <!-- Social Badges -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/joshkoopman)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/joshkoopman)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Koopman-ish)
 
 <br/>
 
@@ -24,15 +24,14 @@
 ## 🧑‍💻 About Me
 
 ```yaml
-name: Josh Koopman
-company: Nivoxis
-role: Enterprise Solutions Architect | Cybersecurity Engineer | DevOps Lead
-focus: Building a multi-tenant SaaS cybersecurity awareness platform
-interests:
-  - Phishing simulation & security awareness training
-  - AI-powered threat detection
-  - Enterprise architecture & platform engineering
-  - DevSecOps & cloud-native infrastructure
+Name: Josh Koopman
+Role: DevOps Engineer + Founder of Nivoxis
+Focus: Automating Enterprise Infrastructure while Building the most comprehensive cybersecurity awareness + phishing simulation SaaS
+Mission: Give every organization the tools to make automation and security culture stick
+Interests:
+  - DevOps Automation for SMEs
+  - DevSecOps Automation practices in modern pipelines
+  - Multi-tenant SaaS architecture & platform engineering
 ```
 
 <br/>
@@ -57,12 +56,9 @@ interests:
 
 ### Backend & Frameworks
 <p>
-  <img src="https://img.shields.io/badge/Gorilla_Mux-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Gorilla Mux" />
-  <img src="https://img.shields.io/badge/GORM-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="GORM" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/REST_APIs-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST APIs" />
   <img src="https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black" alt="Webpack" />
-  <img src="https://img.shields.io/badge/Gulp-CF4647?style=for-the-badge&logo=gulp&logoColor=white" alt="Gulp" />
 </p>
 
 ### Databases
@@ -118,11 +114,11 @@ interests:
 ## 📊 GitHub Stats
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=joshkoopman&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=3D7BFF&icon_color=3D7BFF&text_color=c9d1d9" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=joshkoopman&theme=github-dark-blue&hide_border=true&background=0d1117&ring=3D7BFF&fire=3D7BFF&currStreakLabel=3D7BFF" width="48%" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Koopman-ish&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=3D7BFF&icon_color=3D7BFF&text_color=c9d1d9" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Koopman-ish&theme=github-dark-blue&hide_border=true&background=0d1117&ring=3D7BFF&fire=3D7BFF&currStreakLabel=3D7BFF" width="48%" alt="GitHub Streak" />
 </p>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=joshkoopman&theme=github-compact&hide_border=true&bg_color=0d1117&color=3D7BFF&line=3D7BFF&point=58a6ff" width="98%" alt="Activity Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Koopman-ish&theme=github-compact&hide_border=true&bg_color=0d1117&color=3D7BFF&line=3D7BFF&point=58a6ff" width="98%" alt="Activity Graph"/>
 
 <br/>
 
@@ -130,8 +126,51 @@ interests:
 
 ## 🚀 Featured Project
 
-### Nivoxis CyberAwareness Platform
-> A multi-tenant SaaS cybersecurity awareness platform built on GoPhish — featuring AI-powered phishing simulation, adaptive training, gamification, compliance frameworks, MSP partner portals, and enterprise-grade RBAC.
+### Nivoxis — Enterprise Cybersecurity Awareness Platform
+
+> A multi-tenant SaaS platform purpose-built to make security awareness training actually work. Built on a heavily customized GoPhish core with an entirely new product layer on top — targeting enterprise security teams, HR, and MSPs who need more than open-source can offer.
+
+**The problem:** Most phishing simulation tools stop at "did the user click?" Nivoxis closes the loop — from the simulated attack through to adaptive training, behavioral scoring, compliance evidence, and analyst-grade threat intelligence, all in one platform.
+
+**Simulation Engine**
+- Email, QR code, attachment, and SMS (smishing) phishing vectors
+- AI-generated phishing templates (Claude + OpenAI) with corporate identity auto-spoofing
+- Instant micro-feedback delivered the moment a user clicks — behavior change at the point of failure
+- Autopilot campaigns with adaptive scheduling based on user risk profile
+- Large pre-built template library across 25+ languages
+
+**Training & Learning**
+- Academy with markdown-native course modules, quizzes, and time tracking
+- Adaptive training paths driven by individual phishing behavior
+- Gamification engine — leaderboards, points, badges, XP, and tiered certifications
+- Behavioral Risk Score (BRS) per user, per department, per org
+
+**AI-Powered Intelligence**
+- Aria — AI admin assistant with 9-step guided onboarding and conversational platform navigation
+- NLP semantic analysis of employee-reported suspicious emails (Professional+ tier)
+- AI-assisted phishing template generation and campaign configuration
+
+**Compliance & Reporting**
+- Framework mapping: NIS2, DORA, HIPAA, PCI DSS, NIST CSF
+- Audit logging across all admin actions
+- Power BI-compatible exports and custom report builder
+- Email Security Operations dashboard (MTTR, false-positive rate, SLA compliance)
+
+**Enterprise & MSP Architecture**
+- 6-role RBAC: SuperAdmin, Admin, Manager, Analyst, Trainer, Viewer
+- Full multi-tenant isolation with org-scoped data at every layer
+- OIDC/SAML SSO + IdP auto-provisioning (beyond SSO — full lifecycle)
+- TOTP MFA enforced per org tier
+- MSP partner portal for multi-org management
+- Subscription tiers with feature gating
+
+**Threat Intelligence**
+- Network Events dashboard: SIEM/endpoint/firewall event ingestion, automation rules, analyst notes
+- Zero Incident Mail sandbox for safe attachment detonation
+- Repeat-offender escalation workflow
+- Threat alert system with report-a-phish button for employees
+
+**Stack:** Go · Gorilla Mux · GORM · SQLite/MySQL · Bootstrap 4 · Webpack · Gulp · Claude AI · OpenAI · OIDC · MCP
 
 <br/>
 
@@ -139,7 +178,7 @@ interests:
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=joshkoopman&style=for-the-badge&color=3D7BFF&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=Koopman-ish&style=for-the-badge&color=3D7BFF&label=PROFILE+VIEWS)
 
 </div>
 
