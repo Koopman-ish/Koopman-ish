@@ -132,46 +132,6 @@ Interests:
 
 **The problem:** Most phishing simulation tools stop at "did the user click?" Nivoxis closes the loop — from the simulated attack through to adaptive training, behavioral scoring, compliance evidence, and analyst-grade threat intelligence, all in one platform.
 
-**Simulation Engine**
-- Email, QR code, attachment, and SMS (smishing) phishing vectors
-- AI-generated phishing templates (Claude + OpenAI) with corporate identity auto-spoofing
-- Instant micro-feedback delivered the moment a user clicks — behavior change at the point of failure
-- Autopilot campaigns with adaptive scheduling based on user risk profile
-- Large pre-built template library across 25+ languages
-
-**Training & Learning**
-- Academy with markdown-native course modules, quizzes, and time tracking
-- Adaptive training paths driven by individual phishing behavior
-- Gamification engine — leaderboards, points, badges, XP, and tiered certifications
-- Behavioral Risk Score (BRS) per user, per department, per org
-
-**AI-Powered Intelligence**
-- Aria — AI admin assistant with 9-step guided onboarding and conversational platform navigation
-- NLP semantic analysis of employee-reported suspicious emails (Professional+ tier)
-- AI-assisted phishing template generation and campaign configuration
-
-**Compliance & Reporting**
-- Framework mapping: NIS2, DORA, HIPAA, PCI DSS, NIST CSF
-- Audit logging across all admin actions
-- Power BI-compatible exports and custom report builder
-- Email Security Operations dashboard (MTTR, false-positive rate, SLA compliance)
-
-**Enterprise & MSP Architecture**
-- 6-role RBAC: SuperAdmin, Admin, Manager, Analyst, Trainer, Viewer
-- Full multi-tenant isolation with org-scoped data at every layer
-- OIDC/SAML SSO + IdP auto-provisioning (beyond SSO — full lifecycle)
-- TOTP MFA enforced per org tier
-- MSP partner portal for multi-org management
-- Subscription tiers with feature gating
-
-**Threat Intelligence**
-- Network Events dashboard: SIEM/endpoint/firewall event ingestion, automation rules, analyst notes
-- Zero Incident Mail sandbox for safe attachment detonation
-- Repeat-offender escalation workflow
-- Threat alert system with report-a-phish button for employees
-
-**Stack:** Go · Gorilla Mux · GORM · SQLite/MySQL · Bootstrap 4 · Webpack · Gulp · Claude AI · OpenAI · OIDC · MCP
-
 <br/>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
